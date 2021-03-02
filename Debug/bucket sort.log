@@ -1,0 +1,10 @@
+﻿生成启动时间为 2021/3/2 22:24:14。
+     1>项目“E:\c语言编译\bucket sort\bucket sort\bucket sort.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c语言编译\bucket sort\Debug\bucket sort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\c语言编译\bucket sort\Debug\bucket sort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c语言编译\bucket sort\Debug\bucket sort.lib" /MACHINE:X86 "Debug\bucket sort.obj"
+         bucket sort.vcxproj -> E:\c语言编译\bucket sort\Debug\bucket sort.exe
+     1>已完成生成项目“E:\c语言编译\bucket sort\bucket sort\bucket sort.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.26
